@@ -1,0 +1,25 @@
+{
+  "name": "tcc-angular2",
+  "version": "1.0.0",
+  "description": "Angular 2",
+  "main": "index.js",
+  "repository": "https://github.com/cechinel/tcc-angular2.git",
+  "author": "Alexandre Cechinel",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.18.13",
+    "connect-history-api-fallback": "^1.3.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^1.0.2"
+  }
+}
